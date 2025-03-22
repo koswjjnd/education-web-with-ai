@@ -1,0 +1,12 @@
+Flask
+pg8000
+google-generativeai
+pandas
+flask_cors
+pinecone[grpc]==5.4.0
+textstat
+werkzeug
+llama-index
+flask_executor
+pytest
+python-dotenv
